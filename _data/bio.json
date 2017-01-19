@@ -1,15 +1,15 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Ah Lim Om",
     "label": "Student",
     "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2018.",
+    "email": "ahlim@hawaii.edu",
+    "phone": "808-342-4679",
+    "website": "https://ahlim0m.github.io/",
+    "summary": "I am studying for a B.A. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2017.",
     "location": {
       "address": "",
-      "postalCode": "96822",
+      "postalCode": "96814",
       "city": "Honolulu",
       "countryCode": "USA",
       "region": "Hawaii"
@@ -17,23 +17,18 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "ahlim0m",
+        "url": "http://github.com/ahlim0m"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "username": "ahlim",
+        "url": "http://linkedin.com/in/ahlim"
       },
       {
         "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "ahlim0m",
+        "url": "http://instagram.com/ahlim0m"
       }
     ]
   },
@@ -41,8 +36,11 @@
     {
       "name": "internet of things",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "Interior Design",
+        "Web Development",
+        "Web Design",
+        "App Development",
+        "Adobe Illustrator"
       ]
     },
     {
@@ -66,7 +64,8 @@
         "Java",
         "Javascript",
         "Assembly",
-        "Common Lisp"
+        "PHP"
+        "My SQL"
       ]
     },
     {
@@ -77,47 +76,41 @@
         "Ubuntu",
         "Git/GitHub",
         "g++",
-        "TI LaunchPad"
+        "Adobe Illustrator"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "area": "Computer Science (expected Fall, 2017)",
+      "studyType": "B.A.",
+      "startDate": "2012-09-01",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "3.37",
       "courses": [
+        "Intro to Computer Science I",
+        "Discrete Math for CS I",
+        "Intro to Computer Science II",
+        "Program Structure",
+        "Discrete Mathematics II",
+        "Data Storage & Retrieval",
+        "Operating Systems",
+        "Intro to Prgrmmng for the Web"
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "",
+      "position": "",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
-      "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
-    },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "startDate": "",
+      "endDate": "",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
       ]
-    }
+    },
   ],
   "volunteer": [
     {
