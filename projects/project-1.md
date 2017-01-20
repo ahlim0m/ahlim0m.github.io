@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/wp_square.png
 title: WordPress Website / MySQL Databases
-permalink: projects/wordpress
+permalink: projects/WordPress
 date: 2016
 labels:
   - My SQL
