@@ -34,20 +34,28 @@
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Web Development",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "Web Development",
+        "Web Design"
       ]
     },
     {
-      "name": "data mining",
+      "name": "App Development",
       "keywords": [
+        "App Development",
+        "App Design",
+        "Widgets",
+        "Game Development"
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Design",
       "keywords": [
+        "UI/UX Design",
+        "App Design",
+        "Interior Design",
+        "Furniture Design"
       ]
     }
   ],
