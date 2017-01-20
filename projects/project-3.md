@@ -26,5 +26,5 @@ After executing a command, the menu is displayed again until the exit option is 
 
 This is by far the longest and the most challenging program I have ever written. This project has definitely helped improve my programming skills, especially in the C programming language. It also helped me to understand data structures better, such as linked lists, stacks, and heaps.
 
-Source: <a href="https://github.com/ahlim0m/bank_application"><i class="large github icon "></i>ahlim0m/bank_application</a>
+Demo: <a href="https://github.com/ahlim0m/bank_application"><i class="large github icon "></i>ahlim0m/bank_application</a>
 
