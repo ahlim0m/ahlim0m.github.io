@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/wp_square.png
 title: WordPress Website / MySQL Databases
-permalink: http://ahlim.ics415.com/
+permalink: projects/wordpress
 date: 2016
 labels:
   - My SQL
