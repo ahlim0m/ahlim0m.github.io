@@ -1,24 +1,20 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
-date: 2015
+image: images/mv_square.png
+title: Music Video
+permalink: https://www.youtube.com/watch?v=_vuBpICke_0
+date: 2014
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Java
+  - Eclipse
+summary: A java object-oriented programming project my team developed in ICS 111.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui medium right floated rounded image" src="../images/mv_reg.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+This is a team project created in Fall 2014 designed to help students learn the basics of Object Oriented Programming. The project was created using [Java](https://www.java.com/en/). Our task was to design and create a music video with the song of our team's choice using simple Java code to rotate, translate, enlarge, and shrink images. 
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
-
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
+This project introduced me to the world of programming, and has made programming fun and interesting. I learned the basics of coding and object orientiation through the project, which helped improve my programming skills.
  
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+Source: <a href="https://www.youtube.com/watch?v=_vuBpICke_0">Music Video Final</a>
