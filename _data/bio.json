@@ -35,27 +35,12 @@
   "interests": [
     {
       "name": "Web Development",
-      "keywords": [
-        "Web Development",
-        "Web Design",
-        "Adobe Illustrator"
-      ]
     },
     {
       "name": "Design",
-      "keywords": [
-        "Furniture Design",
-        "Interior Design",
-        "UI/UX Design",
-        "Adobe Illustrator"
-      ]
     },
     {
       "name": "App Development",
-      "keywords": [
-        "Game Development",
-        "Widgets"
-      ]
     }
   ],
   "skills": [
@@ -114,7 +99,7 @@
       "summary": "",
       "highlights": [
       ]
-    },
+    }
   ],
   "volunteer": [
     {
