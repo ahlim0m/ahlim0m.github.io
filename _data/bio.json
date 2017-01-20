@@ -34,23 +34,27 @@
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Web Development",
       "keywords": [
-        "Interior Design",
         "Web Development",
         "Web Design",
-        "App Development",
         "Adobe Illustrator"
       ]
     },
     {
-      "name": "data mining",
+      "name": "Design",
       "keywords": [
+        "Furniture Design",
+        "Interior Design",
+        "UI/UX Design",
+        "Adobe Illustrator"
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "App Development",
       "keywords": [
+        "Game Development",
+        "Widgets"
       ]
     }
   ],
