@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/mv_square.png
 title: Music Video
-permalink: https://www.youtube.com/watch?v=_vuBpICke_0
+permalink: projects/music-video
 date: 2014
 labels:
   - Java
