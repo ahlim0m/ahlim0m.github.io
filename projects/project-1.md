@@ -12,7 +12,7 @@ labels:
 summary: A responsive WordPress Website I developed in ICS 415.
 ---
 
-<img class="WordPress Web image" src="../images/wp_reg.png" width="48">
+<img class="WordPress Web image" src="../images/wp_reg.png">
 
 This project is a WordPress Website I developed in ICS415, Fall 2016. For the most of the part, the project focused on dealing with databases using [Cpanel](https://cpanel.com/).
 In Cpanel, I used [MySQL Databases](https://www.mysql.com/) to create the databases. [PhpMyAdmin](https://www.phpmyadmin.net/) was used to import and export data tables made with Microsoft Excel, and generate data tables used for the actual application made. Next, I used html/php to create the actual application called the CampusTravel. This is a simple travel intranet application that allows the user to look up the amount of sales made by the agents.
