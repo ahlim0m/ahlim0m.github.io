@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Web development
+title: Software Engineering Interests
 date: 2017-01-20
 labels:
   - Interests
