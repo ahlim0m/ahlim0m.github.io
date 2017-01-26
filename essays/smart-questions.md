@@ -9,7 +9,7 @@ labels:
   - Asking Questions
 ---
 
-<img class="ui medium left floated image" src="../images/hands">
+<img class="ui medium left floated image" src="../images/hands.png">
 
 ## Questions? Questions!
 A question is a linguistic expression used to make a request for information.
