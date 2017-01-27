@@ -32,11 +32,13 @@ Here is an example of a not smart question on Stack Overflow:
 
 In Eric Raymond's guidelines it is said, before you ask a question:
 
-1.Try to find an answer by searching the archives of the forum or mailing list you plan to post to.
-2.Try to find an answer by searching the Web.
-3.Try to find an answer by reading the manual.
-4.Try to find an answer by reading a FAQ.
-5.Try to find an answer by inspection or experimentation.
-6.Try to find an answer by asking a skilled friend.
-7.If you're a programmer, try to find an answer by reading the source code.
+1. Try to find an answer by searching the archives of the forum or mailing list you plan to post to.
+2. Try to find an answer by searching the Web.
+3. Try to find an answer by reading the manual.
+4. Try to find an answer by reading a FAQ.
+5. Try to find an answer by inspection or experimentation.
+6. Try to find an answer by asking a skilled friend.
+7. If you're a programmer, try to find an answer by reading the source code.
 
+And yes, the answer to this question "What's the difference between JavaScript and Java?" could be found in all of the above. 
+These kind of questions are waste of time for the people who are willing to help. To not get an answer like "Java and Javascript are similar like Car and Carpet are similar", it is important to ask questions in the 'smart' way.
