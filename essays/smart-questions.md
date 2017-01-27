@@ -19,9 +19,9 @@ A question is a linguistic expression used to make a request for information (Wi
 
 According the Eric Raymond, a smart question has meaningful subject headers that gives readers brief ideas on what it is about. For example,"[C programming] scanf error" would be a better subject header than "I need HELP! My Program is not working!". 
 
-<img class="center" src="../images/smart1.png">
+<img align ="center" class="image" src="../images/smart1.png">
 
-<img class="center" src="../images/smart2.png">
+<img align="center" class="image" src="../images/smart2.png">
 
 Above is a good example of a smart question. The author used a specific subject header mentioning what kind of programming language is being used and what problem he/she encountered. The question also has a proper introduction sentence stating what the problem is. Then the author puts example codes and the outputs below using appropriate code blocks and syntax highlighting, which makes it easier for people to understand the problem more in detail. Lastly, the author asks the question in one simple sentence to clarify what the question is. In this way, it is easier for other people to fully understand what is going on and they are able to answer or give tips how / which part of the code is causing the error.
 
@@ -29,7 +29,7 @@ Above is a good example of a smart question. The author used a specific subject 
 
 Here is an example of a not smart question on Stack Overflow:
 
-<img class="center" src="../images/notsmart.png">
+<img align="center" class="image" src="../images/notsmart.png">
 
 In Eric Raymond's guidelines it is said, before you ask a question:
 
