@@ -41,5 +41,5 @@ In Eric Raymond's guidelines it is said, before you ask a question:
 6. Try to find an answer by asking a skilled friend.
 7. If you're a programmer, try to find an answer by reading the source code.
 
-And yes, the answer to this question "What's the difference between JavaScript and Java?" could be found with all of the above. 
+And yes, the answer to the question could easily be found with all of the above. 
 These kind of questions are waste of time for the people who are willing to help. To not get an answer like "Java and Javascript are similar like Car and Carpet are similar", it is important to ask questions in the 'smart' way.
