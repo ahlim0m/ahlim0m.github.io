@@ -22,4 +22,4 @@ The professor recommended students to put starting curly bracket on a new line b
 
 ## ESLint -- Yes or No
 
-Using [ESLint](eslint.org) with [IntelliJ](https://www.jetbrains.com/idea/) is going pretty well so far. Getting the green checkmark can be painful sometimes, since I have my own way of writing and organizing code, but I think it is definitely a good practice. One thing I do not like about ESLint is restricting the use of syntax I am familiar with, such as i++ / i-- . Other than that, ESLint is a very useful tool to learn proper way of coding.  
+Using [ESLint](eslint.org) with [IntelliJ](https://www.jetbrains.com/idea/) is going pretty well so far. Getting the green checkmark can be painful sometimes, since I have my own way of writing and organizing code, but I think it is definitely a good practice. One thing I do not like about ESLint is restricting the use of syntax I am familiar with, such as i++ / i-- - . Other than that, ESLint is a very useful tool to learn proper way of coding.  
