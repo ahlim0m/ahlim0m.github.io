@@ -7,13 +7,17 @@ labels:
   - Coding Standards
 ---
 
-<img class="ui medium left floated image" src="../images/coding_standard">
+<img class="ui medium left floated image" src="../images/coding_standard.png">
 
+<<<<<<< HEAD
 Coding standards define a way of writing a well-organized code with high legibility.
 From putting the curly brackets properly to setting the number of spaces to use for indentation,
 use of coding standards can make programmer's life easier.
 
 <img class="ui medium right floated image" src="../images/two_types">
+=======
+<img class="ui medium right floated image" src="../images/two_types.png">
+>>>>>>> origin/master
 
 ## Which way is better ?
 
