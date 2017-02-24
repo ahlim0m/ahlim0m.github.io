@@ -22,7 +22,7 @@ With framework, you are now free from writing the same boring code blocks over a
 
 Web framework has many advantages. One of the best benefits is increase of efficiency. Pre-built functions make development to be much easier and faster, and less stressful. Most frameworks are free of cost, which means anybody can create a well-made website. Even if you are new to web development, it is still possible to create a well-made website with just a little bit of research thanks to the documentations that comes with most of the frameworks. However, knowing how to use a framework does not necessarily mean you know the language. Also, Programmers will often face the limitation using a framework, since they have their own set of rules that can not be modified. For this reason, it is very important to find a right framework that suits you best if you decide to use one.
 
-<img class="ui medium right floated image" src="../images/sementicweb.png">
+<img class="ui right floated image" src="../images/sementicweb.png">
 
 ## Framework? I love it! ---
 
