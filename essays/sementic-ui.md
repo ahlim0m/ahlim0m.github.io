@@ -24,7 +24,7 @@ Web framework has many advantages. One of the best benefits is increase of effic
 
 ## Framework? I love it! ---
 
-<img class="ui large right floated image" src="../images/sementicweb.png">
+<img class="ui medium right floated image" src="../images/sementicweb.png">
 
 My personal experience with [Sementic UI](http://semantic-ui.com/) has been going great so far. I did not know creating website could be this simple and enjoyable until I was introduced to Sementic UI. I have replicated various local websites such as [Island Snow](http://islandsnow.com/), [Bar35](http://www.bar35hawaii.com/), [Hawaiian Brian's](http://hawaiianbrians.com/) and [Murphy's](http://murphyshawaii.com/), and it could not have been any easier.
 I am very excited to learn more about web development in the future, and I would definitely recommend using frameworks to anybody that does not know about it.
