@@ -14,4 +14,4 @@ In prior practice WODs, we were told many times the importance of import stateme
 
 ## Wait, What?
 
-For the digits practice WOD part 1, I encountered a serious problem which worried me very much because it was related to time. 
+For the digits practice WOD part 1, I encountered a serious problem which worried me, because it was related to time. When setting up our application for the first time using a meteor application template, there were several different steps to follow through. Downloading and installing npm went smoothly, but the problem was the next step. Invoking meteor --settings ../config/settings.development.json took more than 40 minutes! I had about 8,000 changes to commit, while the walkthrough video only had about 300 files, and I have tried one of the possible solution to help solving the problem which was running: meteor npm install —save bcrypt , but it did not solve the problem. It still remains as a mystery.
