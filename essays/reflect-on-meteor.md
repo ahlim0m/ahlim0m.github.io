@@ -11,7 +11,7 @@ labels:
   - Meteor
 ---
 
-<img class="ui medium left floated image" src="../images/meteor.jpeg">
+<img class="ui medium left floated image" src="../images/meteor.jpg">
 
 ## Meteor appeared like a meteor
 
