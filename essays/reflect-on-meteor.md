@@ -20,7 +20,7 @@ development has something to do with both front-end back-end. And yes, that was 
 It turns out full-stack development is an essential component of developing professional and advanced
 websites which not only deals with nicely designed user interface, but also with databases to
 perform more complex actions. Even with the learning curves, meteor is a perfect full-stack development
-platform to create websites.
+platform.
 
 <img class="ui medium right floated image" src="../images/meteor_2.png">
 
@@ -36,4 +36,4 @@ I honestly think everything about Meteor is cool. Building a fully functional we
 always wanted to learn and do, but I just could not figure out where to start from. Building a web app with
 meteor using everything we have learned so far such as javascript and [Semantic UI](https://semantic-ui.com/) has definitely gave me an idea and taught me the concept of web development.
 Meteors' auto-refresh feature was one of the convenient features I really liked, for which I could just
-code, go back to the page and see the changes made right away. All I can say about Meteor and people who are about to learn Meteor is not to worry, because everything is cool.
+code, go back to the page and see the changes made right away. All I want to say to people who are about to learn Meteor, is not to worry, because everything is cool.
