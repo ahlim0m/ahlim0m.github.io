@@ -55,6 +55,7 @@
         "UI/UX Design",
         "App Design",
         "Interior Design",
+        "Graphic Design",
         "Furniture Design"
       ]
     }
@@ -69,6 +70,7 @@
         "Java",
         "Javascript",
         "Assembly",
+        "Semantic UI",
         "PHP",
         "My SQL"
       ]
@@ -80,6 +82,7 @@
         "MacOS",
         "Ubuntu",
         "Git/GitHub",
+        "IntelliJ IDEA",
         "g++",
         "Adobe Illustrator"
       ]
@@ -101,7 +104,10 @@
         "Discrete Mathematics II",
         "Data Storage & Retrieval",
         "Operating Systems",
-        "Intro to Prgrmmng for the Web"
+        "Intro to Prgrmmng for the Web",
+        "Machine-Lvl & Systems Programg",
+        "Programming Language Theory",
+        "Software Engineering I"
       ]
     }
   ],
