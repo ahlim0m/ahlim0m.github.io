@@ -32,6 +32,7 @@ The application has several pages:
 <img class="ui medium left floated rounded image" src="../images/avaiablebooks.png">
 
 Since the website is exclusively designed for UH students, a valid UH ID is required. Once logged-in, the user is able to view information on all the textbook required for ICS major, check their availabilities, upload a book for sale, add a book to the book list, and view their listings.
+
 My Contribution to the project was creating the browse books page and add books page. I first created a collection of book data, which was used as a base for many other pages such as sell books or check available books.
 
 Working on the project has made me realize the importance of github. Without version control, it would have been a total disaster. Thanks to github/git, our team was able to work indivisually or as a whole without any conflicts or broken codes.
